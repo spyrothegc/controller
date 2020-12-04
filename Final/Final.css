@@ -8,10 +8,6 @@
 
 }
 
-.xbox.disconnected {
-    background: url(xbox-assets/disconnected.svgz);
-}
-
 .xbox.disconnected div {
     display: none;
 }
