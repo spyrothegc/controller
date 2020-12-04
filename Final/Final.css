@@ -8,10 +8,6 @@
 
 }
 
-.xbox.disconnected div {
-    display: none;
-}
-
 .xbox .triggers {
     width: 446px;
     height: 121px;
