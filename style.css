@@ -111,7 +111,7 @@
 }
 
 .xbox .back, .xbox .start {
-    background: url(https://i.imgur.com/UsGKuH1.png);
+    background: url(https://i.imgur.com/Jc5SQ4k.png);
     width: 33px;
     height: 33px;
     opacity: 0;
@@ -140,7 +140,7 @@
 
 .xbox .button {
     position: absolute;
-    background: url(https://imgur.com/gKrh2BS.png);
+    background: url(https://i.imgur.com/z6yPFpK.png);
     width: 48px;
     height: 48px;
 }
@@ -214,7 +214,7 @@
 }
 
 .xbox .face {
-    background: url(https://imgur.com/j1tIawK.png);
+    background: url(https://i.imgur.com/ONBbqmK.png);
     position: absolute;
     opacity: 0;
 }
